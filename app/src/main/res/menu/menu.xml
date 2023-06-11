@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item android:title="Store"
+        android:id="@+id/store"
+        android:icon="@drawable/baseline_store_24"
+        />
+    <item android:title="Saftey"
+        android:id="@+id/saftey"
+        android:icon="@drawable/baseline_safety_check_24"
+        />
+    <item android:title="Wealth"
+        android:id="@+id/wealth"
+        android:icon="@drawable/baseline_currency_rupee_24"
+        />
+    <item android:title="History"
+        android:id="@+id/history"
+        android:icon="@drawable/baseline_history_24"
+        />
+</menu>
